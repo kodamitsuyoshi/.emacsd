@@ -1,0 +1,2 @@
+# .emacsd
+emacsのセッティング1
